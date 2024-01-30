@@ -1,0 +1,31 @@
+{
+    "osserva": [
+        "guarda",
+        "look",
+        "cerca",
+        "strizza gli occhi",
+        "esamina",
+        "esamina la stanza",
+        "osserva"
+    ],
+    "inventario": [
+        "borsa",
+        "cartella",
+        "baule",
+        "inventario"
+    ],
+    "mappa": [
+    "mappa",
+    "map",
+    "cartina"
+    ],
+    "musica": [
+    "musica",
+    "player",
+    "lettore"],
+    "help": [
+    "aiuto",
+    "help"
+    ]
+
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "toSay": "Io sono il leggenario pirata Glum e bevo un sacco di rum!\nSe la via da seguir non ti vien in sogno, di una mappa avrai bisogno",
+        "id": 1,
+        "room": 1,
+        "name": "Glum"
+    },
+    {
+        "toSay": "Bau Bau",
+        "id": 2,
+        "room": 2,
+        "name": "Cloe"
+    },
+    {
+        "toSay": "Bifur è al tuo servizio per esaudire ogni tuo vizio!\nSono uno gnomo mica una fata, non sono Babbo Natale ma ti regalo una spada",
+        "id": 3,
+        "room": 3,
+        "name": "Bifur"
+    },
+    {
+        "toSay": "Ecco a te il re dei maiali, mica dei sorci, nascondo al mio interno tutti i miei dolci\nUn vero re non fa mai esercizio ma che la sfida abbia comunque inizio",
+        "id": 4,
+        "room": 4,
+        "name": "Pignatta"
+    }
+]

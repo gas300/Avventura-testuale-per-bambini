@@ -1,0 +1,16 @@
+[
+    {
+        "name": "mappa",
+        "id": 1,
+        "room": 1,
+        "takable": true,
+        "description": "con questa potrò orientarmi meglio"       
+    },
+    {
+        "name": "spada",
+        "id": 2,
+        "room": 3,
+        "takable": true,
+        "description": "con questa potrò sconfiggere quel maiale!"       
+    }
+]

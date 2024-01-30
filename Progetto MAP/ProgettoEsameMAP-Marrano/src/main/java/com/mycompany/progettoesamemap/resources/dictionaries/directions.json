@@ -1,0 +1,27 @@
+{
+    "nord": [
+        "north",
+        "su",
+        "sali",
+        "sopra",
+        "nord"
+    ],
+    "sud": [
+        "south",
+        "scendi",
+        "sotto",
+        "sud"
+    ],
+    "est": [
+        "east",
+        "dx",
+        "destra",
+        "est"
+    ],
+    "ovest": [
+        "west",
+        "sx",
+        "sinistra",
+        "ovest"
+    ]
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Avamposto",
+        "description": "L'ultimo pezzo di terra prima del mare aperto",
+        "north": 0,
+        "south": 4,
+        "east": 2,
+        "west": 0
+    },
+    {
+        "id": 2,
+        "name": "Il Ponte",
+        "description": "Chissà perchè questo ponte non ha un nome,\n forse è l'unico su questa isola",
+        "north": 0,
+        "south": -1,
+        "east": 3,
+        "west": 1
+    },
+    {
+        "id": 3,
+        "name": "Campagne",
+        "description": "Gli abitanti di quest'isola hanno poca\n fantasia con i nomi a quanto pare",
+        "north": 0,
+        "south": 5,
+        "east": -1,
+        "west": 2 
+    },
+    {
+        "id": 4,
+        "name": "Elburg",
+        "description": "Finalmente un nome! Elburg! il grande regno\n dell'isola di... indovina un pò... Elburg",
+        "north": 1,
+        "south": -1,
+        "east": -1,
+        "west": 0 
+    },
+    {
+        "id": 5,
+        "name": "Foresta fitta",
+        "description": "Una grande foresta da cui non è mai tornato indietro nessuno",
+        "north": 3,
+        "south": -1,
+        "east": -1,
+        "west": -1 
+    }
+]

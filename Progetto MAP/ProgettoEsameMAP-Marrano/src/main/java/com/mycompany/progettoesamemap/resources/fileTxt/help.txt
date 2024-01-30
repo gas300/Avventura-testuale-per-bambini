@@ -1,0 +1,21 @@
+
+---------------- LISTA COMANDI ----------------
+
+ * DIREZIONALI *
+ nord --> vai a nord 
+ sud --> vai a sud
+ est --> vai ad est
+ ovest --> vai ad ovest
+
+ * INTERATTIVI SU OGGETTI *
+ osserva --> ottieni info sul contesto
+ inventario --> guarda cosa possiedi
+ mappa --> visiona mappa
+ musica --> apri lettore musicale
+ raccogli + oggetto --> raccogli oggetto
+
+ * INTERATTIVI SU NPCS *
+ parla + personaggio --> parla con personaggio
+ uccidi + personaggio --> uccidi personaggio
+
+-----------------------------------------------
