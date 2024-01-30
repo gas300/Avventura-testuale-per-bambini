@@ -158,7 +158,7 @@ I comandi riconosciuti dal gioco prevendono l'uso dei sinonimi dei seguenti verb
 
 Link presentazione progetto --> https://www.canva.com/design/DAF64332GSE/YhFS6sUTe583VwbNfLXCfA/edit?utm_content=DAF64332GSE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Link GitHub --> https://github.com/gas300/Il-pirata-goloso
+Link GitHub --> https://github.com/gas300/IlPirataGoloso
 
     
 
