@@ -1,4 +1,4 @@
-## Il piarata goloso
+## Il pirata goloso
 
 # Indice:
     Capitolo 1 - Descrizione tecnica:
